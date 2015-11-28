@@ -1,6 +1,10 @@
+Sabtu, 28 Nov 2015
+- desain ulang di balsamiq
+
 =================================================================================
 RF minggu,11 November 2015
 -Nge design home, halaman catalog, dan halaman detail produk
 -masih bingung sama sistem pemesanan nya, kayaknya mesti pake cart gtu. 
+
 
 notes : lanjutin yaa, kalau udh ngerjain apa aja, isi nya mulai dari atas
